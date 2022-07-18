@@ -9,4 +9,4 @@ logs
 out
 gen
 target
-*。xml
+*.xml
